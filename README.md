@@ -14,5 +14,3 @@ To run the above file on local computer:
 1. Clone the repo to the local computer
 2. Run "python main.py" on cmd line
 ```
-
-## Preview
