@@ -5,7 +5,7 @@ Driver drowsiness is a primary cause of several highway calamities leads to seve
 ## Libraries Required
 - dlib
 - scipy 
-- open-cv
+- opencv
 - imutils
 
 ## Execution
